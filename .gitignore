@@ -1,0 +1,27 @@
+# Build outputs
+/claude-tap
+/claude-tap.exe
+/bin/
+/dist/
+/.build/
+
+# Runtime traces and logs
+/.traces/
+/.traces-*/
+*.log
+live-smoke.err
+live-smoke.out
+
+# Local Go caches
+/.gocache/
+/.gomodcache/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Test coverage
+coverage.out
+*.coverprofile

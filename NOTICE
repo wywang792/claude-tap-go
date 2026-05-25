@@ -1,0 +1,6 @@
+claude-tap-go is a Go port inspired by the Python project claude-tap:
+https://github.com/liaohch3/claude-tap
+
+Portions of the embedded viewer template, README wording, demo images and
+architecture screenshots are adapted from claude-tap, which is distributed
+under the MIT License.
